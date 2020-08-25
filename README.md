@@ -14,11 +14,11 @@ npm install -S @feizheng/next-pad-index
 ## options
 > { char: '0', step: 0, size: 2 }
 
-| api   | type   | default |
-| ----- | ------ | ------- |
-| chart | string | '0'     |
-| step  | number | 0       |
-| size  | number | 2       |
+| api  | type   | default |
+| ---- | ------ | ------- |
+| char | string | '0'     |
+| step | number | 0       |
+| size | number | 2       |
 
 ## usage
 ```js
