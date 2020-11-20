@@ -1,6 +1,15 @@
+/*!
+ * name: @jswork/next-pad-index
+ * description: PadLeft with zero for index.
+ * homepage: https://github.com/afeiship/next-pad-index
+ * version: 1.0.0
+ * date: 2020-11-20 13:52:09
+ * license: MIT
+ */
+
 (function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('@feizheng/next-js-core2');
+  var nx = global.nx || require('@jswork/next');
   var DEFAULT_OPTIONS = { char: '0', step: 0, size: 2 };
 
   nx.padIndex = function (inIndex, inOptions) {
