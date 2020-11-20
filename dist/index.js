@@ -3,7 +3,7 @@
  * description: PadLeft with zero for index.
  * homepage: https://github.com/afeiship/next-pad-index
  * version: 1.0.0
- * date: 2020-11-20 13:52:09
+ * date: 2020-11-20 13:57:02
  * license: MIT
  */
 
